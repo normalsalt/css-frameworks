@@ -12,6 +12,8 @@ https://github.com/git-ftp/git-ftp
 git ftp push
 ```
 
+It is recommended to create `.git/hooks/post-commit`.
+
 # Bootstrap
 
 https://getbootstrap.com/
